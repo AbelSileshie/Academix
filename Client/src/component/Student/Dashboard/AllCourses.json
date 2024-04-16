@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Advanced Java Programming",
+      "code": "AJP101",
+      "chr": "3"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Java Programming",
+      "code": "AJP101",
+      "chr": "3"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Java Programming",
+      "code": "AJP101",
+      "chr": "3"
+    },
+    {
+      "id": 4,
+      "title": "Advanced Java Programming",
+      "code": "AJP101",
+      "chr": "3"
+    },
+    {
+        "id": 5,
+        "title": "Data Structures and Algorithms",
+        "code": "DSA101",
+        "chr": "4"
+      },
+      {
+        "id": 6,
+        "title": "Data Structures and Algorithms",
+        "code": "DSA101",
+        "chr": "4"
+      },
+      {
+          "id": 7,
+          "title": "Data Structures and Algorithms",
+          "code": "DSA101",
+          "chr": "4"
+        },
+        {
+          "id": 8,
+          "title": "Data Structures and Algorithms",
+          "code": "DSA101",
+          "chr": "4"
+        }
+  ]
+  
